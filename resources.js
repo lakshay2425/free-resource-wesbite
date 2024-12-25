@@ -1,4 +1,4 @@
-export const resources = [
+const resources = [
     {
         title: "Framework to learn any new technical concept",
         description: "It will help you to learn new concept in depth along with better understanding of how the concept works.",
@@ -20,6 +20,7 @@ export const resources = [
         link: "https://glacier-brownie-7ed.notion.site/Web3-151ff054470a80b4b323e6bf6d67656e?pvs=4"
     },
     {
+
         title: "Frontend Development Resources",
         description: "It contains resources for Interview Prepartion, System Design, UI Libraries, JavaScript Resources",
         link: "https://glacier-brownie-7ed.notion.site/Frontend-Development-151ff054470a802a9e79f4d1334323ca?pvs=4"
@@ -30,8 +31,9 @@ export const resources = [
         link: "https://glacier-brownie-7ed.notion.site/DSA-151ff054470a80ffb8effa6db664947f?pvs=4"
     },
     {
+
         title: "How to Create a Digital Second Brain for yourself",
-        description: "It contain resources which would introduce to the concept of Second Brain and how you can build one for yourself ",
+        description: "It contain resources which would introduce to the concept of Second Brain and how you can build one for yourself",
         link: "https://glacier-brownie-7ed.notion.site/How-to-Build-a-Second-Brain-159ff054470a80c69dfed7de4e024ab9?pvs=4"
     },
     {
@@ -45,6 +47,7 @@ export const resources = [
         link: "https://glacier-brownie-7ed.notion.site/UI-UX-159ff054470a802fa95dcef7ed854a1e?pvs=4"
     },
     {
+        
         title: "List of Open Source Programs",
         description: "It contains list of various open sources for which you can apply and grow in your career",
         link: "https://glacier-brownie-7ed.notion.site/Open-Source-127ff054470a80d98c18da25d0ccae64?pvs=4"
